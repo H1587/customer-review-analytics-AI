@@ -1,0 +1,5 @@
+pandas
+playwright
+google-genai
+groq
+openpyxl

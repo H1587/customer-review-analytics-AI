@@ -1,0 +1,21 @@
+# Secrets and environment files
+.env
+.env.*
+!.env.example
+*api_key*
+*secret*
+secrets.json
+credentials.json
+token.json
+
+# Python and notebook runtime files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Temporary and raw exports
+*_progress.json
+reviews_export.json
+kaapi_junction_reviews_export.json
+*.log
+.DS_Store

@@ -1,0 +1,18 @@
+[
+  {
+    "review_id": 101,
+    "rating": 5,
+    "review_title": "Excellent filter coffee",
+    "review_text": "Rich coffee, served hot. Staff were friendly.",
+    "product_category": "Coffee & Beverages",
+    "order_type": "Dine-in"
+  },
+  {
+    "review_id": 102,
+    "rating": 2,
+    "review_title": "Long wait",
+    "review_text": "The order took too long and arrived cold.",
+    "product_category": "Food & Service",
+    "order_type": "Delivery"
+  }
+]
