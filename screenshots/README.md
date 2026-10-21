@@ -1,12 +1,16 @@
 
-## Dashboard
+## Live Dashboard
 
-[Open the live Customer Review Analytics Dashboard](https://lucky-phoenix-84e141.netlify.app/)
+[Open Customer Review Analytics Dashboard](https://lucky-phoenix-84e141.netlify.app/)
 
-## Screenshots
+**Note:** The dashboard currently requires an Excel workbook to display review analytics.
+
+## Dashboard Screenshots
 
 ### Executive Summary
-![Dashboard overview](screenshots/dashboard-overview.png)
+
+![Customer Review Analytics Executive Summary](dashboard-overview.png)
 
 ### Review Explorer
-![Review explorer](screenshots/review-explorer.png)
+
+![Customer Review Analytics Review Explorer](review-explorer.png)
